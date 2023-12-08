@@ -1,0 +1,43 @@
+.container {
+  width: 1400px;
+  margin: auto;
+}
+
+.header__adress {
+  display: flex;
+  justify-content: space-between;
+  padding: 15px 80px;
+  font-family: Montserrat;
+  font-size: 14px;
+  font-style: normal;
+  font-weight: 400;
+}
+
+.header__number {
+  display: flex;
+  align-items: center;
+  gap: 5px;
+
+}
+
+.header__navigation {
+  color: #000;
+  font-family: Montserrat;
+  font-size: 20px;
+  font-style: normal;
+  font-weight: 400;
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  background: #D9D9D9;
+  padding: 10px 80px;
+}
+
+.header__menu {
+  display: flex;
+  gap: 60px;
+
+  a {
+    color: #000;
+  }
+}

@@ -1,0 +1,21 @@
+.catalog__flower-div,
+.catalog__bear,
+.catalog__card {
+  display: flex;
+  flex-wrap: wrap;
+  padding: 20px 80px;
+  justify-content: space-between;
+  margin: 20px 0;
+}
+
+.catalog__flower {
+  border-top: 2px solid black;
+  border-bottom: 2px solid black;
+  padding: 20px 0;
+  margin: 10px 0;
+}
+
+.center__basket {
+  text-align: center;
+  padding: 30px 80px;
+}

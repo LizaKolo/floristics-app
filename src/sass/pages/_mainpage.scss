@@ -1,0 +1,75 @@
+.mainpage__image-bg {
+  background-image: url("../../assets/background.jpg");
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: center;
+  width: 100%;
+  height: 40%;
+  margin: auto;
+  padding: 280px 80px;
+}
+
+.mainpage__image-h1 {
+  color: #FFF;
+  font-family: Playfair Display;
+  font-size: 56px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  width: 685px;
+}
+
+.mainpage__image-p {
+  color: #FFF;
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 10px;
+}
+
+.mainpage__information {
+  display: flex;
+  justify-content: space-between;
+  padding-top: 150px;
+  padding-left: 80px;
+  padding-right: 80px;
+}
+
+.mainpage__infa {
+  display: flex;
+  flex-direction: column;
+  gap: 145px;
+}
+
+.mainpage__infa-span1 {
+  font-family: Playfair Display;
+  font-size: 40px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  padding-top: 20px;
+}
+
+.mainpage__infa-span2 {
+  font-family: Playfair Display;
+  font-size: 48px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+}
+
+.mainpage__infa-span3 {
+  font-family: Montserrat;
+  font-size: 18px;
+  font-style: normal;
+  font-weight: 400;
+  line-height: normal;
+  margin-top: 40px;
+}
+
+.mainpage-img {
+  max-width: 830px;
+  max-height: 780px;
+}
